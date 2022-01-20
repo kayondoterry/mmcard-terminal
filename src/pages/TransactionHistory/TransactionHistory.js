@@ -89,7 +89,7 @@ function TransactionHistory() {
     else return { bgColor: "bg-purple-200", textColor: "text-purple-600" };
   };
   const getStatusText = (status) => {
-    // if (status === "pending") return "Pending Confirmation";
+    if (status === "pending") return "Pending Confirmation";
     return status;
   };
 
