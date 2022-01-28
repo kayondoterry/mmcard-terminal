@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.395e76a5.css",
-    "main.js": "/static/js/main.b65c6b7d.js",
-    "static/media/profile.jpg": "/static/media/profile.07c90bd6bb6eef9d4317.jpg",
-    "index.html": "/index.html",
-    "main.395e76a5.css.map": "/static/css/main.395e76a5.css.map",
-    "main.b65c6b7d.js.map": "/static/js/main.b65c6b7d.js.map"
+    "main.css": "/mmcard-terminal/static/css/main.395e76a5.css",
+    "main.js": "/mmcard-terminal/static/js/main.cc1e2972.js",
+    "static/media/profile.jpg": "/mmcard-terminal/static/media/profile.07c90bd6bb6eef9d4317.jpg",
+    "index.html": "/mmcard-terminal/index.html",
+    "main.395e76a5.css.map": "/mmcard-terminal/static/css/main.395e76a5.css.map",
+    "main.cc1e2972.js.map": "/mmcard-terminal/static/js/main.cc1e2972.js.map"
   },
   "entrypoints": [
     "static/css/main.395e76a5.css",
-    "static/js/main.b65c6b7d.js"
+    "static/js/main.cc1e2972.js"
   ]
 }
